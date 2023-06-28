@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.ncsu.csc316.trail.manager"},{"l":"edu.ncsu.csc316.trail.ui"}]
